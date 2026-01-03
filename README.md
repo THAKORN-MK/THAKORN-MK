@@ -13,8 +13,8 @@
 
 # 💖 Thakorn Jaipol 💖
 
-🌸 Computer Engineering Student  
-🌸 University of Phayao  
+🌸 Computer Engineering Student  🌸  
+🌸 University of Phayao  🌸
 
 </div>
 
@@ -50,7 +50,7 @@
 
 <p align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com?user=THAKORN-MK&theme=rose" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=THAKORN-MK&theme=violet-dark&hide_border=true&border_radius=20" />
 </p>
 
 </p>

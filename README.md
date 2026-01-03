@@ -49,12 +49,11 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THAKORN-MK&theme=radical" />
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=THAKORN-MK&theme=violet-dark&hide_border=true&border_radius=20)](https://git.io/streak-stats)
+
 </p>
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/THAKORN-MK?template=classic&languages=1&activity=1&theme=radical" />
-</p>
 
 
 

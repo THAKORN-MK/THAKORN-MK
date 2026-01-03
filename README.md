@@ -50,7 +50,8 @@
 
 <p align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=THAKORN-MK&theme=violet-dark&hide_border=true&border_radius=20)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=THAKORN-MK&theme=rose" />
+</p>
 
 </p>
 
@@ -63,5 +64,6 @@
 
 ---
 
-
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6d9&height=120&section=footer" />
+</div>

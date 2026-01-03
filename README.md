@@ -57,7 +57,6 @@
 </p>
 
 
-<img src="https://metrics.lecoq.io/THAKORN-MK?template=classic&languages=1&activity=1&theme=radical" />
 
 
 

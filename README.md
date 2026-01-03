@@ -1,16 +1,49 @@
 ## Hi there 👋
 
-<!--
-**THAKORN-MK/THAKORN-MK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Nino Nakano Theme GitHub Profile -->
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://i.pinimg.com/originals/7a/3a/69/7a3a69f3b2e1e3c9e9b1cfe9f3f7e9f5.png" width="200" />
+
+# 💖 Thakorn Jaipol 💖  
+🌸 *Nino Nakano Vibes* 🌸
+
+</div>
+
+---
+
+## 👤 About Me
+
+💗 **Name:** Thakorn Jaipol  
+🆔 **Student ID:** 67026023  
+🎓 **Faculty:** Faculty of Information and Communication Technology  
+💻 **Major:** Computer Engineering  
+🏫 **University:** University of Phayao  
+
+> *“ปากอาจแรง แต่โค้ดต้องสวย”* — Nino Style 😆💕
+
+---
+
+## 💻 Skills & Interests
+
+🌸 Programming Languages  
+- 💗 HTML / CSS  
+- 💗 JavaScript  
+- 💗 Python  
+- 💗 C / C++  
+
+🌸 Interests  
+- 🎀 Web Development  
+- 🎀 UI / UX Design  
+- 🎀 Anime Theme Website  
+- 🎀 Fan-made Projects  
+
+---
+
+## 🌸 Nino Mode Status
+
+```txt
+Mood: 💢 Tsundere but caring
+Theme: 💖 Pink / Pastel
+Power: 🔥 Coding with passion

@@ -46,20 +46,24 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=THAKORN-MK&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THAKORN-MK&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THAKORN-MK&layout=compact&theme=radical&cache_seconds=1800" />
+  <img src="https://metrics.lecoq.io/THAKORN-MK?template=classic&languages=1&activity=1&theme=radical" />
 </p>
+
+
+<img src="https://metrics.lecoq.io/THAKORN-MK?template=classic&languages=1&activity=1&theme=radical" />
+
+
 
 
 
 ---
 
-## 🌸 Nino Background Footer
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6d9&height=120&section=footer" />

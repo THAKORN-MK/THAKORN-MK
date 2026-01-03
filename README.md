@@ -1,12 +1,15 @@
 <!-- 🌸 Nino Nakano Animated GitHub Profile 🌸 -->
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=ff94d4&text=THAKORN%20&section=header&textBg=false&animation=twinkling&strokeWidth=3&descAlign=50&fontColor=ffffff&stroke=ff0099" />
+<img src="images/nino-bg.jpg" width="100%" />
 
-<!-- BG Nino -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6d9&height=200&section=header&text=Nino%20Nakano%20Theme&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+<img src="images/nino-profile.gif" width="300" />
 
-<!-- Profile Nino -->
-<img src="https://media.tenor.com/6y8nF5Y9zXcAAAAC/nino-nakano-anime.gif" width="180" style="border-radius:50%;" />
+# 💖 Thakorn Jaipol 💖
+
+</div>
+
 
 # 💖 Thakorn Jaipol 💖
 
@@ -35,7 +38,7 @@
 
 ---
 
-## 🌸 Nino Animation Status
+## 🌸 Status
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Itim&size=24&pause=1200&color=FF69B4&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Love+Web+Development;Anime+Theme+Website+Creator;Nino+Nakano+Best+Girl+%F0%9F%92%96" />
@@ -46,12 +49,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&border_radius=20" />
+  <img src="https://github-readme-stats.vercel.app/api?username=THAKORN-MK&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&border_radius=20" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THAKORN-MK&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
+
+
 
 ---
 

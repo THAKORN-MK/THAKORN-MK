@@ -41,7 +41,7 @@
 ## 🌸 Status
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Itim&size=24&pause=1200&color=FF69B4&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Love+Web+Development;Anime+Theme+Website+Creator;Nino+Nakano+%F0%9F%92%96" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Itim&size=24&pause=1200&color=FF69B4&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Love+Web+Development;Nino+Nakano+%F0%9F%92%96" />
 </p>
 
 ---

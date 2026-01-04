@@ -32,7 +32,7 @@
 
 ## 💻 Skills
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,git,github&theme=light" />
 </p>
 

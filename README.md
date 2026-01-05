@@ -66,5 +66,6 @@
 ---
 
 <div align="center">
+<img src="images/nino2.gif" width="50%" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6d9&height=120&section=footer" />
 </div>

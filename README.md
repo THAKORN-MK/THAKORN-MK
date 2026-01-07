@@ -46,7 +46,7 @@
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Activity 📊
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=THAKORN-MK&theme=date_night" />

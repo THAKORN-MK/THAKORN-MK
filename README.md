@@ -6,21 +6,34 @@
 
 <img src="images/nino-profile.gif" width="300" />
 
-# 💖 Thakorn Jaipol 💖
+
+
+
+
+
 
 </div>
 
 
-# 💖 Thakorn Jaipol 💖
+<div align="center" >
 
-🌸 Computer Engineering Student  🌸  
-🌸 University of Phayao  🌸
+# 💠 Thakorn Jaipol 💠
+
+
+
+🌸 Computer Engineering Student  🌸    
+  
+🌸 University of Phayao  🌸 
+
+----
 
 </div>
 
----
+
 
 ## 👤 Profile Information
+<img align="right" src="images/nino3.png" width="200" />
+</div>
 
 - 👨‍🎓 **Name:** Thakorn Jaipol  
 - 🆔 **Student ID:** 67026023  

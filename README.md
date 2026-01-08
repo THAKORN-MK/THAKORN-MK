@@ -31,7 +31,7 @@
 
 
 
-## 👤 Profile Information
+## 👤 Profile Information 👤
 <img align="right" src="images/nino3.png" width="200" />
 </div>
 
@@ -43,7 +43,7 @@
 
 ---
 
-## 💻 Skills
+## 💻 Skills 💻
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,git,github&theme=light" />

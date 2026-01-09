@@ -32,14 +32,18 @@
 
 
 ## 👤 Profile Information 👤
-<img align="right" src="images/nino3.png" width="200" />
+<img align="right" src="images/nino3.png" width="160" />
 </div>
 
 - 👨‍🎓 **Name:** Thakorn Jaipol  
 - 🆔 **Student ID:** 67026023  
 - 🏫 **Faculty:** Faculty of Information and Communication Technology  
 - 💻 **Major:** Computer Engineering  
-- 🎓 **University:** University of Phayao  
+- 🎓 **University:** University of Phayao
+- 📧 **Email** 67026023@up.ac.th
+- 📱 **Telephone Number** 0871843074
+- 🌐 **Githup** THAKORN-MK
+- 🧠 **Skill** Programming Languages, EditVideo, AI 
 
 ---
 

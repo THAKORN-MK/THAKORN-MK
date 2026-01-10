@@ -36,7 +36,7 @@
 </div>
 
 - 👨‍🎓 **Name:** Thakorn Jaipol  
-- 🆔 **Student ID:** 67026023  
+- 🆔 **Student ID:** 67026023   
 - 🏫 **Faculty:** Faculty of Information and Communication Technology  
 - 💻 **Major:** Computer Engineering  
 - 🎓 **University:** University of Phayao

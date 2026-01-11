@@ -32,7 +32,7 @@
 
 
 ## 👤 Profile Information 👤
-<img align="right" src="images/nino3.png" width="160" />
+<img align="right" src="images/nino3.png" width="185" />
 </div>
 
 - 👨‍🎓 **Name:** Thakorn Jaipol  
@@ -46,12 +46,21 @@
 - 🧠 **Skill** Programming Languages, EditVideo, AI 
 
 ---
+<br>
+
+
+
 
 ## 💻 Skills 💻
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,git,github&theme=light" />
+<img align="left" src="images/nino4.png" width="40%" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python&theme=light" width="40%"/>
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,git,github&theme=light" width="40%"/>
+</p>
+
 
 ---
 

@@ -32,7 +32,7 @@
 
 
 ## 👤 Profile Information 👤
-<img align="right" src="images/nino3.png" width="185" />
+<img align="right" src="images/nino3.png" width="160" />
 </div>
 
 - 👨‍🎓 **Name:** Thakorn Jaipol  

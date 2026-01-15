@@ -21,7 +21,7 @@
 
 
 
-🌸 Computer Engineering Student  🌸    
+🌸 Computer Engineering Student 🌸    
   
 🌸 University of Phayao  🌸 
 

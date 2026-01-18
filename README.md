@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=ffd4ee&text=🌸THAKORN🌸%20&section=header&textBg=false&animation=twinkling&strokeWidth=3&descAlign=50&fontColor=ffffff&stroke=ff0099" />
 <img src="images/nino-bg.jpg" width="100%" />
 
-<img src="images/nino-profile.gif" width="300"  />
+<img src="images/nino-profile.gif" width="300"   />
 
 
 

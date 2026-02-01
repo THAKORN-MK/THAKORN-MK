@@ -54,7 +54,7 @@
 ## 💻 Skills 💻
 <img align="left" src="images/nino4.png" width="40%" />
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python&theme=light" width="40%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python&theme=light" width="40%"  />
 </p>
 
 <p align="center">

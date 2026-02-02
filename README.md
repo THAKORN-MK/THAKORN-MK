@@ -43,7 +43,7 @@
 - 📧 **Email** 67026023@up.ac.th
 - 📱 **Telephone Number** 0871843074
 - 🌐 **Githup** THAKORN-MK
-- 🧠 **Skill** Programming Languages, EditVideo, AI 
+- 🧠 **Skill** Programming Languages, EditVideo, AI  
 
 ---
 <br>

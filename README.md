@@ -35,7 +35,7 @@
 <img  align="right" src="images/nino3.png" width="172"  />
 </div>
 
-- 👨‍🎓 **Name:** Thakorn Jaipol  
+- 👨‍🎓 **Name:** Thakorn Jaipol   
 - 🆔 **Student ID:** 67026023   
 - 🏫 **Faculty:** Faculty of Information and Communication Technology  
 - 💻 **Major:** Computer Engineering  

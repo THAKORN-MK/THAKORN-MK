@@ -6,8 +6,7 @@
 
 <img src="images/nino-profile.gif" width="300 " /> 
 
-
-
+ 
 
 
 </div>
